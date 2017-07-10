@@ -1,0 +1,6 @@
+DevicesIntent {devices}
+DevicesIntent start talking about {devices}
+DevicesIntent what is {devices}
+DevicesIntent Tell me about {devices}
+DevicesIntent Talk about {devices}
+
